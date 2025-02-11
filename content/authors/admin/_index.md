@@ -128,6 +128,7 @@ languages:
     percent: 100
   - name: English
     percent: 80
+---
 
 ## About Me
 
