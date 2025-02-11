@@ -65,8 +65,8 @@ education:
     date_start: 2020-09-01
     date_end: 2022-09-01
     summary: |
-    Courses in machine learning, sequence bioinformatics, structural bioinformatics, biological
-    networks, computational neuroscience, biomathematics, graph theory
+      Courses in machine learning, sequence bioinformatics, structural bioinformatics, biological
+      networks, computational neuroscience, biomathematics, graph theory
   - area: B.Sc. Science of Live
     institution: Sorbonne University
     date_start: 2018-09-01
@@ -82,8 +82,8 @@ work:
     date_start: 2024-02-01
     date_end: 2025-10-01
     summary: |
-    Analysis of data from student satisfaction surveys in the context of a new pedagogy using
-    an exploratory analysis
+      Analysis of data from student satisfaction surveys in the context of a new pedagogy using
+      an exploratory analysis
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
