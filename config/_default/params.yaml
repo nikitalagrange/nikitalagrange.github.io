@@ -6,7 +6,7 @@
 # Appearance
 appearance:
   mode: system
-  color: emerald
+  color: indigo
 
 # SEO
 marketing:
@@ -14,14 +14,15 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
-    twitter: 'GetResearchDev'
+    description: 'PhD student at the Institut Curie in Paris under the supervision of Dr. Hervé Isambert and the co-supervision of Dr. Barbara Bravi'
+    twitter: 'lagrangenikita'
   analytics:
-    google_analytics: ''
+    google_analytics: G-0SVFZB3FF9
     baidu_tongji: ''
     plausible: ''
     fathom: ''
     pirsch: ''
+    microsoft_clarity: q8bgt0cgxp
   verification:
     google: ''
     baidu: ''
@@ -35,7 +36,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      text: "Nikita Lagrange"
 
 # Site footer
 footer:

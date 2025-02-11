@@ -67,7 +67,7 @@ education:
     summary: |
       Courses in machine learning, sequence bioinformatics, structural bioinformatics, biological
       networks, computational neuroscience, biomathematics, graph theory
-  - area: B.Sc. Science of Live
+  - area: B.Sc. Sciences of Live
     institution: Sorbonne University
     date_start: 2018-09-01
     date_end: 2020-09-01
@@ -132,4 +132,4 @@ languages:
 
 ## About Me
 
-I am Nikita Lagrange, a third-year PhD student at the Institut Curie in Paris under the supervision of Dr. Hervé Isambert and the co-supervision of Dr. Barbara Bravi. My thesis deals with the development of a new search-and-score algorithm for causal discovery in the presence of latent variables using information theory. 
+I am Nikita Lagrange, a third-year PhD student at Institut Curie in Paris under the supervision of Dr. Hervé Isambert and the co-supervision of Dr. Barbara Bravi. My thesis deals with the development of a new search-and-score algorithm for causal discovery in the presence of latent variables using information theory. 
