@@ -43,5 +43,5 @@ tags:
 links:
 - name: URL
   url: https://doi.org/10.7554/eLife.95485
-- url_code: https://github.com/miicTeam/CausalXtract
+url_code: 'https://github.com/miicTeam/CausalXtract'
 ---

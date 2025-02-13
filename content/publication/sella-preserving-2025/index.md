@@ -37,5 +37,5 @@ tags:
 links:
 - name: URL
   url: https://www.nature.com/articles/s41746-025-01431-6
-- url_code: https://github.com/miicTeam/miic-sdg
+url_code: 'https://github.com/miicTeam/miic-sdg'
 ---
