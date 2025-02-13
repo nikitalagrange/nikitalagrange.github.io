@@ -7,7 +7,7 @@ authors:
 - Tiziana Tocci
 - Louise Dupuis
 - Vincent Cabeli
-- **Nikita Lagrange**
+- _Nikita Lagrange_
 - Arianna Mencattini
 - Maria Carla Parrini
 - Eugenio Martinelli
