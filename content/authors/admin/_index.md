@@ -84,6 +84,15 @@ work:
     summary: |
       Analysis of data from student satisfaction surveys in the context of a new pedagogy using
       an exploratory analysis
+  - position: Teaching Assistant
+    company_name: Sorbonne University
+    company_url: https://sciences.sorbonne-universite.fr/en
+    company_logo: ''
+    date_start: 2022-10-01
+    date_end: 2023-11-30
+    summary: |
+      Teaching [Python](https://formations-sciences.sorbonne-universite.fr/dl/UE%20licences/UE_licence_cycle_integration/LU1IN001.pdf) and [C](https://formations-sciences.sorbonne-universite.fr/dl/UE%20licences/UE_licence_cycle_integration/LU1IN002.pdf) programming to undergraduates and biological network inference
+      to masters students
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`

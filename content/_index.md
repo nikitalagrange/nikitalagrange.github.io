@@ -35,26 +35,25 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I am a third-year PhD student at [Institut Curie](https://institut-curie.org/institut-curie-research-center) in Paris. My thesis focuses on causal discovery. More specifically, I am trying to extend the [miic](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005662) algorithm developed within the Isambert team in a search-and-score mode. The goal is to improve the performance of causal discovery algorithms with the aim of applying this method to biomedical data that are known to be complex and non-linear data.
         
+        Otherwise, I am interested in developing new machine learning algorithms that are more based on human reasoning and that are interpretable.
     design:
       columns: '1'
+  #- block: collection
+  #  id: papers
+  #  content:
+  #    title: Featured Publications
+   #   filters:
+   #     folders:
+   #       - publication
+  #      featured_only: true
+  #  design:
+  #    view: article-grid
+  #    columns: 2
   - block: collection
-    id: papers
     content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
-  - block: collection
-    content:
-      title: Recent Publications
+      title: Publications
       text: ""
       filters:
         folders:
@@ -65,7 +64,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Recent Talks
       filters:
         folders:
           - event
