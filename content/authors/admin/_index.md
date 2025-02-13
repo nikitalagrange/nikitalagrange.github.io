@@ -18,7 +18,6 @@ superuser: true
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
-highlight_superuser : true
 
 # Role/position/tagline
 role:  PhD Student
