@@ -8,7 +8,7 @@ date: '2024-12-23'
 publishDate: '2025-02-13T16:41:15.035541Z'
 reading_time: false
 publication_types:
-- manuscript
+- ["article"]
 publication: '*arXiv*'
 doi: 10.48550/arXiv.2412.17508
 abstract: We propose a greedy search-and-score algorithm for ancestral graphs, which
