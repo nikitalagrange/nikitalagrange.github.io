@@ -35,7 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I am a third-year PhD student at [Institut Curie](https://institut-curie.org/institut-curie-research-center) in Paris. My thesis focuses on causal discovery. More specifically, I am trying to extend the [miic](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005662) algorithm developed within the Isambert team in a search-and-score mode. The goal is to improve the performance of causal discovery algorithms with the aim of applying this method to biomedical data that are known to be complex and non-linear data.
+        I am a third-year PhD student at [Institut Curie](https://institut-curie.org/institut-curie-research-center) in Paris. My thesis focuses on causal discovery. More specifically, I am trying to extend the [miic](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005662) algorithm developed within [The Isambert Lab](http://kinefold.curie.fr/isambertlab/) in a search-and-score mode. The goal is to improve the performance of causal discovery algorithms with the aim of applying this method to biomedical data that are known to be complex and non-linear data.
         
         Otherwise, I am interested in developing new machine learning algorithms that are more based on human reasoning and that are interpretable.
     design:
