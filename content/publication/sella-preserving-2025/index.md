@@ -4,7 +4,7 @@ title: Preserving information while respecting privacy through an information th
 authors:
 - Nadir Sella
 - Florent Guinot
-- Nikita Lagrange
+- admin
 - Laurent-Philippe Albou
 - Jonathan Desponds
 - Hervé Isambert
