@@ -34,7 +34,7 @@ header:
     blox: "navbar"
     fixed_to_top: true
     show_search: true
-    align: right
+    align: "right"
     show_theme_chooser: true
     logo:
       text: "Nikita Lagrange"
