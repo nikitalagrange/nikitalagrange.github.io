@@ -2,13 +2,12 @@
 title: CausalXtract, a flexible pipeline to extract causal effects from live-cell
   time-lapse imaging data
 authors:
-- admin
 - Franck Simon
 - Maria Colomba Comes
 - Tiziana Tocci
 - Louise Dupuis
 - Vincent Cabeli
-- Nikita Lagrange
+- **Nikita Lagrange**
 - Arianna Mencattini
 - Maria Carla Parrini
 - Eugenio Martinelli
