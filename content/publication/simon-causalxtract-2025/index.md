@@ -11,7 +11,7 @@ authors:
 - Arianna Mencattini
 - Maria Carla Parrini
 - Eugenio Martinelli
-- Herve Isambert
+- Hervé Isambert
 date: '2025-01-17'
 publishDate: '2025-02-13T16:41:15.016518Z'
 publication_types:

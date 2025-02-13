@@ -2,8 +2,8 @@
 title: An efficient search-and-score algorithm for ancestral graphs using multivariate
   information scores
 authors:
-- **Nikita Lagrange**
-- Herve Isambert
+- Nikita Lagrange
+- Hervé Isambert
 date: '2024-12-23'
 publishDate: '2025-02-13T16:41:15.035541Z'
 reading_time: false
