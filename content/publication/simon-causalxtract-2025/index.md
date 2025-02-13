@@ -12,12 +12,13 @@ authors:
 - Maria Carla Parrini
 - Eugenio Martinelli
 - Herve Isambert
-date: '2025-01-01'
+date: '2025-01-17'
 publishDate: '2025-02-13T16:41:15.016518Z'
 publication_types:
 - article-journal
 publication: '*eLife*'
 doi: 10.7554/eLife.95485
+reading_time: false
 abstract: Live-cell microscopy routinely provides massive amounts of time-lapse images
   of complex cellular systems under various physiological or therapeutic conditions.
   However, this wealth of data remains difficult to interpret in terms of causal effects.
@@ -33,13 +34,14 @@ abstract: Live-cell microscopy routinely provides massive amounts of time-lapse 
   time delays. Hence, CausalXtract provides a unique computational tool to interpret
   live-cell imaging data for a range of fundamental and translational research applications.
 tags:
-- causal discovery
-- causal inference
-- granger causality
-- live-cell imaging
-- time-lapse image analysis
-- tumor on chip
+- Causal Discovery
+- Causal Inference
+- Granger Causality
+- Live-cell imaging
+- Time-lapse image analysis
+- Tumor on chip
 links:
 - name: URL
   url: https://doi.org/10.7554/eLife.95485
+- url_code: https://github.com/miicTeam/CausalXtract
 ---

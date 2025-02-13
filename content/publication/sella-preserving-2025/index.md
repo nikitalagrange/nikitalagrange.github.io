@@ -8,8 +8,9 @@ authors:
 - Laurent-Philippe Albou
 - Jonathan Desponds
 - Hervé Isambert
-date: '2025-01-01'
+date: '2025-01-23'
 publishDate: '2025-02-13T16:41:15.027490Z'
+reading_time: false
 publication_types:
 - article-journal
 publication: '*npj Digital Medicine*'
@@ -30,10 +31,11 @@ abstract: Generating synthetic data from medical records is a complex task inten
 tags:
 - Breast cancer
 - Computational models
-- Machine learning
+- Machine Learning
 - Probabilistic data networks
-- Statistical methods
+- Statistical Methods
 links:
 - name: URL
   url: https://www.nature.com/articles/s41746-025-01431-6
+- url_code: https://github.com/miicTeam/miic-sdg
 ---

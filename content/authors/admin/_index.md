@@ -137,8 +137,10 @@ languages:
     percent: 100
   - name: English
     percent: 80
+  - name: Russian
+    percent: 30
 ---
 
 ## About Me
 
-I am Nikita Lagrange, a third-year PhD student at Institut Curie in Paris under the supervision of Dr. Hervé Isambert and the co-supervision of Dr. Barbara Bravi. My thesis deals with the development of a new search-and-score algorithm for causal discovery in the presence of latent variables using information theory. 
+I am Nikita Lagrange, a third-year PhD student at [Institut Curie](https://institut-curie.org/institut-curie-research-center) in Paris under the supervision of [Dr. Hervé Isambert](http://kinefold.curie.fr/isambertlab) and the co-supervision of [Dr. Barbara Bravi](https://profiles.imperial.ac.uk/b.bravi21). My thesis deals with the development of a new search-and-score algorithm for causal discovery in the presence of latent variables using information theory. 

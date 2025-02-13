@@ -4,8 +4,9 @@ title: An efficient search-and-score algorithm for ancestral graphs using multiv
 authors:
 - Nikita Lagrange
 - Herve Isambert
-date: '2024-01-01'
+date: '2024-12-23'
 publishDate: '2025-02-13T16:41:15.035541Z'
+reading_time: false
 publication_types:
 - manuscript
 publication: '*arXiv*'
@@ -21,11 +22,13 @@ abstract: We propose a greedy search-and-score algorithm for ancestral graphs, w
   from ac-connected subsets containing up to two-collider paths, is shown to outperform
   state-of-the-art causal discovery methods on challenging benchmark datasets.
 tags:
-- Computer Science - Information Theory
-- Computer Science - Machine Learning
-- Mathematics - Information Theory
-- Statistics - Machine Learning
-- Statistics - Methodology
+- Information Theory
+- Machine Learning
+- Search-and-Score
+- Structure Learning
+- Latent Variable
+- Causal Discovery
+- Methodology
 links:
 - name: URL
   url: http://arxiv.org/abs/2412.17508
