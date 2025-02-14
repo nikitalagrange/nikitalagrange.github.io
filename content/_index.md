@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
+          filename: shiny.svg 
           filters:
             brightness: 1.0
           size: cover
@@ -32,7 +32,7 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 Research'
       subtitle: ''
       text: |-
         I am a third-year PhD student at [Institut Curie](https://institut-curie.org/institut-curie-research-center) in Paris. My thesis focuses on causal discovery. More specifically, I am trying to extend the [miic](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005662) algorithm developed within [The Isambert Lab](http://kinefold.curie.fr/isambertlab/) in a search-and-score mode. The goal is to improve the performance of causal discovery algorithms with the aim of applying this method to biomedical data that are known to be complex and non-linear data.
@@ -65,42 +65,40 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent Talks
+      title: Talks
       filters:
         folders:
           - event
     design:
-      view: article-grid
+      view: article-grid-summary
       columns: 1
-  - block: collection
+
+  - block: markdown
+    id: services
+    content:
+      title: Academic Services
+      subtitle: ''
+      text: |-
+  
+  - block: markdown
     id: news
     content:
-      title: Recent News
+      title: News
       subtitle: ''
-      text: ''
+      text: |-
+       - :calendar: January 23, 2025, publication of synthetic health data generation paper in collaboration with Institut Roche in [npj Digital Medicine](https://www.nature.com/articles/s41746-025-01431-6) :tada: !
+       - :calendar: January 17, 2025, publication of the paper on the CausalXtract tool which extracts features from time series in order to reconstruct temporal causal networks in [eLife](https://elifesciences.org/articles/95485) :tada: !
+       - :calendar: December 23, 2024, publication of the preprint on the extension of the miic algorithm in a search-and-score approach applied to categorical data in [arXiv](https://arxiv.org/abs/2412.17508) :tada: !
+       - :calendar: October 2024, second stay in [Dr. Barbara Bravi's](https://profiles.imperial.ac.uk/b.bravi21) team at Imperial College in London :gb:
+       - :calendar: September 2024, participation in the retreat of young researchers from the Institut Curie, the Centre des Cordeliers and the Institute of Biotechnology of the Czech Academy of Sciences in Prague :czech_republic:
+       - :calendar: September 2023, presentation of my thesis project and my preliminary results at the workshop of the [AI-DSCY team](https://centreborelli.ens-paris-saclay.fr/en/artificial-intelligence-data-science-and-cybersecurity) at the Centre Borelli in Paris :fr:
+       - :calendar: June 2023, first stay in [Dr. Barbara Bravi's](https://profiles.imperial.ac.uk/b.bravi21) team at Imperial College in London :gb:
+       - :calendar: October 2022, start of my PhD at the Institut Curie under the supervision of [Dr. Hervé Isambert](http://kinefold.curie.fr/isambertlab) and co-supervised by [Dr. Barbara Bravi](https://profiles.imperial.ac.uk/b.bravi21) :tada: !
+      columns: '1'
+
       # Page type to display. E.g. post, talk, publication...
-      page_type: post
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: date-title-summary
-      # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
+     
+
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:

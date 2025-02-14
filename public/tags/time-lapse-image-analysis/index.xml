@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Time-Lapse Image Analysis | Nikita Lagrange</title>
+    <link>http://localhost:1313/tags/time-lapse-image-analysis/</link>
+      <atom:link href="http://localhost:1313/tags/time-lapse-image-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Time-Lapse Image Analysis</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 17 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_ff296d52283048fd.png</url>
+      <title>Time-Lapse Image Analysis</title>
+      <link>http://localhost:1313/tags/time-lapse-image-analysis/</link>
+    </image>
+    
+    <item>
+      <title>CausalXtract, a flexible pipeline to extract causal effects from live-cell time-lapse imaging data</title>
+      <link>http://localhost:1313/publication/simon-causalxtract-2025/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/simon-causalxtract-2025/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
