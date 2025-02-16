@@ -13,9 +13,12 @@ main:
   - name: Talks
     url: /#talks
     weight: 13
+  - name: Academic Services
+    url: /#services
+    weight: 14
   - name: News
     url: /#news
-    weight: 14
+    weight: 15
   - name: Experience
     url: experience/
     weight: 11

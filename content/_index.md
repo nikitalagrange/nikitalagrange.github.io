@@ -74,11 +74,11 @@ sections:
       view: article-grid-summary
       columns: 1
 
- # - block: markdown
-  #  id: services
-  #  content:
-  #    title: Academic Services
-  #    subtitle: ''
+  - block: markdown
+    id: services
+    content:
+      title: Academic Services
+      subtitle: ''
   #    text: |-
   
   - block: markdown
