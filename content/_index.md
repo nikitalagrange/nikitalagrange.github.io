@@ -110,7 +110,7 @@ sections:
       title: Contact
       subtitle: ''
       text: |-
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d306141.380212437!2d126.3453416664724!3d33.3711157139061!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x350ce3544cc84045%3A0x66bc36d2981ebf31!2sJeju-do%2C+South+Korea!5e0!3m2!1sen!2sus!4v1473136714592" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+        📍 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1312.8575416863475!2d2.3431009000000063!3d48.844573100000005!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e671c29be381a9%3A0xcebd6da848fd403c!2s11%20Rue%20Pierre%20et%20Marie%20Curie%2C%2075005%20Paris!5e0!3m2!1sfr!2sfr!4v1739726502431!5m2!1sfr!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
