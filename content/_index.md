@@ -55,7 +55,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Publications
+      title: 📝 Publications
       text: ""
       filters:
         folders:
@@ -84,7 +84,7 @@ sections:
   - block: markdown
     id: news
     content:
-      title: News
+      title: 📰 News
       subtitle: ''
       text: |-
        - 📅 January 23, 2025, publication of synthetic health data generation paper in collaboration with Institut Roche in [npj Digital Medicine](https://www.nature.com/articles/s41746-025-01431-6) :tada: !
