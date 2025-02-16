@@ -118,6 +118,7 @@ sections:
         coordinates:
           latitude: '37.4275'
           longitude: '-122.1697'
+          
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
