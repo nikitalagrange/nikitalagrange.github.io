@@ -104,7 +104,20 @@ sections:
       columns: '1'
 
       # Page type to display. E.g. post, talk, publication...
-     
+  - block: markdown
+    id: contact
+    features:
+      map:
+      provider: 'google'
+      api_key: ''
+      zoom: 15
+    content:
+      title: Contact
+      subtitle: ''
+      coordinates:
+        latitude: '37.4275'
+        longitude: '-122.1697'
+      text: |-
 
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
