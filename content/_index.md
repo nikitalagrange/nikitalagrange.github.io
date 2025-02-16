@@ -80,11 +80,11 @@ sections:
   #    subtitle: ''
   #    text: |-
   
-  #- block: markdown
-  #  id: news
-  #  content:
-  #    title: News
-  #    subtitle: ''
+  - block: markdown
+    id: news
+    content:
+      title: News
+      subtitle: ''
   #    text: |-
   #     - :calendar: January 23, 2025, publication of synthetic health data generation paper in collaboration with Institut Roche in [npj Digital Medicine](https://www.nature.com/articles/s41746-025-01431-6) :tada: !
    #    - :calendar: January 17, 2025, publication of the paper on the CausalXtract tool which extracts features from time series in order to reconstruct temporal causal networks in [eLife](https://elifesciences.org/articles/95485) :tada: !
