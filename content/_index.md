@@ -81,7 +81,7 @@ sections:
       text: |-
       - Representative of doctoral students on [EDITE doctoral school board](https://www.edite-de-paris.fr/conseil-de-ledite/)
       - Participation in the doctoral school board and decision-making processes
-    columns: '1'
+      columns: '1'
 
   
   - block: markdown
