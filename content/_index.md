@@ -82,6 +82,8 @@ sections:
       text: |-
         - Representative of doctoral students on [EDITE doctoral school board](https://www.edite-de-paris.fr/conseil-de-ledite/)
             - Participation in the doctoral school board and decision-making processes
+        - Reviewer for the [NeurIPS BDU Workshop 2024](https://gp-seminar-series.github.io/neurips-2024/)
+            - Review of two submissions for the NeurIPS 2024 Workshop on Bayesian Decision-making and Uncertainty
       columns: '1'
 
   
