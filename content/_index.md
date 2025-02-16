@@ -85,8 +85,8 @@ sections:
     content:
       title: News
       subtitle: ''
-  #    text: |-
-  #     - :calendar: January 23, 2025, publication of synthetic health data generation paper in collaboration with Institut Roche in [npj Digital Medicine](https://www.nature.com/articles/s41746-025-01431-6) :tada: !
+#    text: |-
+       - :calendar: January 23, 2025, publication of synthetic health data generation paper in collaboration with Institut Roche in [npj Digital Medicine](https://www.nature.com/articles/s41746-025-01431-6) :tada: !
    #    - :calendar: January 17, 2025, publication of the paper on the CausalXtract tool which extracts features from time series in order to reconstruct temporal causal networks in [eLife](https://elifesciences.org/articles/95485) :tada: !
     #   - :calendar: December 23, 2024, publication of the preprint on the extension of the miic algorithm in a search-and-score approach applied to categorical data in [arXiv](https://arxiv.org/abs/2412.17508) :tada: !
     #   - :calendar: October 2024, second stay in [Dr. Barbara Bravi's](https://profiles.imperial.ac.uk/b.bravi21) team at Imperial College in London :gb:
@@ -94,7 +94,7 @@ sections:
        #- :calendar: September 2023, presentation of my thesis project and my preliminary results at the workshop of the [AI-DSCY team](https://centreborelli.ens-paris-saclay.fr/en/artificial-intelligence-data-science-and-cybersecurity) at the Centre Borelli in Paris :fr:
 #       - :calendar: June 2023, first stay in [Dr. Barbara Bravi's](https://profiles.imperial.ac.uk/b.bravi21) team at Imperial College in London :gb:
  #      - :calendar: October 2022, start of my PhD at the Institut Curie under the supervision of [Dr. Hervé Isambert](http://kinefold.curie.fr/isambertlab) and co-supervised by [Dr. Barbara Bravi](https://profiles.imperial.ac.uk/b.bravi21) :tada: !
-  #    columns: '1'
+      columns: '1'
 
       # Page type to display. E.g. post, talk, publication...
      
