@@ -108,9 +108,9 @@ sections:
     id: contact
     features:
       map:
-      provider: 'google'
-      api_key: ''
-      zoom: 15
+        provider: 'mapnik'
+        api_key: ''
+        zoom: 15
     content:
       title: Contact
       subtitle: ''
