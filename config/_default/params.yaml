@@ -38,7 +38,6 @@ header:
     show_theme_chooser: true
     logo:
       text: "Nikita Lagrange"
-      filename: "icon.png"
 
 # Site footer
 footer:
