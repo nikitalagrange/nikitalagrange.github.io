@@ -41,6 +41,8 @@ profiles:
     url: https://orcid.org/0009-0009-5432-2252
   - icon: academicons/dblp
     url: https://dblp.org/pid/395/6628
+  - icon: academicons/researchgate
+    url: https://www.researchgate.net/profile/Nikita-Lagrange
   - icon: academicons/cv
     url: uploads/resume_NL.pdf
 
