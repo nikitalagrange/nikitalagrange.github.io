@@ -5,8 +5,6 @@ authors:
 - admin
 - Hervé Isambert
 author_notes:
-- "CNRS"
-- "CNRS"
 date: '2024-12-23'
 publishDate: '2025-02-13T16:41:15.035541Z'
 reading_time: false

@@ -84,6 +84,30 @@ sections:
             - Participation in the doctoral school board and decision-making processes
         - Reviewer for the [NeurIPS BDU Workshop 2024](https://gp-seminar-series.github.io/neurips-2024/)
             - Review of two submissions for the NeurIPS 2024 Workshop on Bayesian Decision-making and Uncertainty
+        <!DOCTYPE html>
+        <html lang="fr">
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Rectangle avec Texte</title>
+            <style>
+                .rectangle {
+                    width: 300px;
+                    height: 150px;
+                    border: 2px solid black;
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    background-color: lightgray;
+                }
+            </style>
+        </head>
+        <body>
+            <div class="rectangle">
+                Ceci est un texte à l'intérieur d'un rectangle.
+            </div>
+        </body>
+        </html>
       columns: '1'
 
   
