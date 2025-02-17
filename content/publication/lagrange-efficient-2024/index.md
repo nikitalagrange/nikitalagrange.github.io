@@ -5,8 +5,8 @@ authors:
 - admin
 - Hervé Isambert
 author_notes:
-- "CNRS, UMR168, Institut Curie, PSL University, Sorbonne University, Paris, France"
-- "CNRS, UMR168, Institut Curie, PSL University, Sorbonne University, Paris, France"
+- "CNRS"
+- "CNRS"
 date: '2024-12-23'
 publishDate: '2025-02-13T16:41:15.035541Z'
 reading_time: false
