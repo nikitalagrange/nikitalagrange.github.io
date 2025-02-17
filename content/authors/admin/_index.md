@@ -80,7 +80,7 @@ work:
   - position: Consultant
     company_name: Sorbonne University
     company_url: https://capsule.sorbonne-universite.fr/
-    company_logo: custom/Logo_of_Sorbonne_University
+    company_logo: ''
     date_start: 2024-02-01
     date_end: 2025-10-01
     summary: |
@@ -100,7 +100,7 @@ work:
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
-    color: "#E0B0FF"
+    color: '#E0B0FF'
     color_border: "#E0B0FF"
     items:
       - name: Python
