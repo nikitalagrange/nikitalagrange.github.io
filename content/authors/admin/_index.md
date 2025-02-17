@@ -2,6 +2,7 @@
 # Display name
 title: Nikita Lagrange
 
+
 # Name pronunciation (optional)
 name_pronunciation: ''
 
@@ -38,6 +39,10 @@ profiles:
     url: https://scholar.google.com/citations?user=vVHrjuwAAAAJ
   - icon: academicons/orcid
     url: https://orcid.org/0009-0009-5432-2252
+  - icon: academicons/dblp
+    url: https://dblp.org/pid/395/6628
+  - icon: academicons/cv
+    url: uploads/resume_NL.pdf
 
 interests:
   - Causal Discovery
@@ -75,7 +80,7 @@ work:
   - position: Consultant
     company_name: Sorbonne University
     company_url: https://capsule.sorbonne-universite.fr/
-    company_logo: ''
+    company_logo: custom/Logo_of_Sorbonne_University
     date_start: 2024-02-01
     date_end: 2025-10-01
     summary: |
@@ -95,23 +100,45 @@ work:
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
+    color: "#E0B0FF"
+    color_border: "#E0B0FF"
     items:
       - name: Python
         description: ''
         percent: 100
-        icon: ''
+        icon: devicon/python
       - name: R
         description: ''
         percent: 100
-        icon: ''
+        icon: devicon/r
       - name: C++
         description : ''
         percent: 70
-        icon: ''
+        icon: devicon/cplusplus
+      - name: C
+        description : ''
+        percent: 70
+        icon: devicon/c
       - name: MATLAB
         description: ''
         percent: 60
-        icon: ''
+        icon: devicon/matlab
+      - name: php
+        description: ''
+        percent: 60
+        icon: devicon/php
+      - name: html
+        description: ''
+        percent: 60
+        icon: devicon/html5
+      - name: bash
+        description: ''
+        percent: 60
+        icon: devicon/bash
+      - name: git
+        description: ''
+        percent: 60
+        icon: devicon/git
   #- name: Hobbies
    # color: '#eeac02'
    # color_border: '#f0bf23'
@@ -143,4 +170,5 @@ highlight_name: true
 
 ## About Me
 
-I am Nikita Lagrange, a third-year PhD student at [Institut Curie](https://institut-curie.org/institut-curie-research-center) in Paris under the supervision of [Dr. Hervé Isambert](http://kinefold.curie.fr/isambertlab) and the co-supervision of [Dr. Barbara Bravi](https://profiles.imperial.ac.uk/b.bravi21). My thesis deals with the development of a new search-and-score algorithm for causal discovery in the presence of latent variables using information theory. 
+<div style="text-align: justify"> I am Nikita Lagrange, a third-year PhD student at <a href="https://institut-curie.org/institut-curie-research-center">Institut Curie</a> in Paris under the supervision of  <a href="http://kinefold.curie.fr/isambertlab">Dr. Hervé Isambert</a> and the co-supervision of  <a href="https://profiles.imperial.ac.uk/b.bravi21">Dr. Barbara Bravi</a>. My thesis deals with the development of a new search-and-score algorithm for causal discovery in the presence of latent variables using information theory. </div>
+<br>

@@ -1,4 +1,5 @@
 ---
+text-align: justify
 title: Preserving information while respecting privacy through an information theoretic
   framework for synthetic health data generation
 authors:
@@ -15,7 +16,7 @@ publication_types:
 - article-journal
 publication: '*npj Digital Medicine*'
 doi: 10.1038/s41746-025-01431-6
-abstract: Generating synthetic data from medical records is a complex task intensified
+abstract:  Generating synthetic data from medical records is a complex task intensified
   by patient privacy concerns. In recent years, multiple approaches have been reported
   for the generation of synthetic data, however, limited attention was given to jointly
   evaluate the quality and the privacy of the generated data. The quality and privacy
@@ -27,7 +28,7 @@ abstract: Generating synthetic data from medical records is a complex task inten
   Quality and Privacy Scores (QPS) of synthetic data generation methods. The performance
   of MIIC-SDG is demonstrated on different clinical datasets and favorably compares
   with state-of-the-art synthetic data generation methods, based on the QPS trade-off
-  between several quality and privacy metrics.
+  between several quality and privacy metrics. 
 tags:
 - Breast cancer
 - Computational models
