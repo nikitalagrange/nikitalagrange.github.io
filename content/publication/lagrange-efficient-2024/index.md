@@ -4,6 +4,9 @@ title: An efficient search-and-score algorithm for ancestral graphs using multiv
 authors:
 - admin
 - Hervé Isambert
+author_notes:
+- CNRS, UMR168, Institut Curie, PSL University, Sorbonne University, Paris, France
+- CNRS, UMR168, Institut Curie, PSL University, Sorbonne University, Paris, France
 date: '2024-12-23'
 publishDate: '2025-02-13T16:41:15.035541Z'
 reading_time: false
@@ -14,7 +17,7 @@ doi: 10.48550/arXiv.2412.17508
 abstract: We propose a greedy search-and-score algorithm for ancestral graphs, which
   include directed as well as bidirected edges, originating from unobserved latent
   variables. The normalized likelihood score of ancestral graphs is estimated in terms
-  of multivariate information over relevant ``ac-connected subsets'' of vertices,
+  of multivariate information over relevant "ac-connected subsets" of vertices,
   C, that are connected through collider paths confined to the ancestor set of C.
   For computational efficiency, the proposed two-step algorithm relies on local information
   scores limited to the close surrounding vertices of each node (step 1) and edge
