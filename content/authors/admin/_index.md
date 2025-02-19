@@ -31,6 +31,8 @@ profiles:
   - icon: at-symbol
     url: 'mailto:nikita.lagrange@tutanota.com'
     label: E-mail Me
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/nikitalagrange
   - icon: brands/x
     url: https://x.com/lagrangenikita
   - icon: brands/github
