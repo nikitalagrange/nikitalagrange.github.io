@@ -6,7 +6,7 @@ type: landing
 enableEmoji: true
 
 design:
-  # Default section spacing
+  # Default section spacin
   spacing: "6rem"
 
 sections:
