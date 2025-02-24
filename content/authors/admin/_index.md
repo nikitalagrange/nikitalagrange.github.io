@@ -168,7 +168,7 @@ languages:
   - name: Russian
     percent: 30
 
-# Highlight the author in author lists? (true/false)
+#  Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
