@@ -36,7 +36,7 @@ sections:
       title: '📚 Research'
       subtitle: ''
       text: |-
-        <div style="text-align: justify"> I am a third-year PhD student at <a href="https://institut-curie.org/institut-curie-research-center">Institut Curie</a> in Paris. My thesis focuses on causal discovery. More specifically, I am trying to extend the <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005662">miic</a> algorithm developed within <a href="http://kinefold.curie.fr/isambertlab/">The Isambert Lab</a> in a search-and-score mode. The goal is to improve the performance of causal discovery algorithms with the aim of applying this method to biomedical data that are known to be complex and non-linear data.
+        <div style="text-align: justify"> I am a PhD student at <a href="https://institut-curie.org/institut-curie-research-center">Institut Curie</a> in Paris. My thesis focuses on causal discovery. More specifically, I am trying to extend the <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005662">miic</a> algorithm developed within <a href="http://kinefold.curie.fr/isambertlab/">The Isambert Lab</a> in a search-and-score mode. The goal is to improve the performance of causal discovery algorithms with the aim of applying this method to biomedical data that are known to be complex and non-linear data.
         
         Otherwise, I am interested in developing new machine learning algorithms that are more based on human reasoning and that are interpretable. </div>
     design:
