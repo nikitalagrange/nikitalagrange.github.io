@@ -94,13 +94,13 @@ sections:
       subtitle: ''
       text: |-
        - <div style="text-align: justify"> 📅 January 23, 2025 - Publication of a paper on synthetic health data generation with Institut Roche in <a href="https://www.nature.com/articles/s41746-025-01431-6"><em>npj Digital Medicine</em></a> :tada: ! </div>
-       - <div style="text-align: justify"> :calendar: January 17, 2025 - Publication of a paper on the CausalXtract tool, which extracts features from time series to reconstruct temporal causal networks, in  <a href="https://elifesciences.org/articles/95485">eLife</a> :tada: ! </div>
-       - <div style="text-align: justify"> :calendar: December 23, 2024, publication of the preprint on the extension of the miic algorithm in a search-and-score approach applied to categorical data in  <a href="https://arxiv.org/abs/2412.17508">arXiv</a> :tada: ! </div>
-       - <div style="text-align: justify"> :calendar: October 2024, second stay in  <a href="https://profiles.imperial.ac.uk/b.bravi21">Dr. Barbara Bravi's</a> team at Imperial College in London :gb: </div>
-       - <div style="text-align: justify"> :calendar: September 2024, participation in the retreat of young researchers from the Institut Curie, the Centre des Cordeliers and the Institute of Biotechnology of the Czech Academy of Sciences in Prague :czech_republic: </div>
-       - <div style="text-align: justify"> :calendar: September 2023, presentation of my thesis project and my preliminary results at the workshop of the  <a href="https://centreborelli.ens-paris-saclay.fr/en/artificial-intelligence-data-science-and-cybersecurity">AI-DSCY team</a> at the Centre Borelli in Paris :fr: </div>
-       - <div style="text-align: justify"> :calendar: June 2023, first stay in  <a href="https://profiles.imperial.ac.uk/b.bravi21">Dr. Barbara Bravi's</a> team at Imperial College in London :gb: </div>
-       - <div style="text-align: justify"> :calendar: October 2022, start of my PhD at the Institut Curie under the supervision of  <a href="http://kinefold.curie.fr/isambertlab">Dr. Hervé Isambert</a> and co-supervised by  <a href="https://profiles.imperial.ac.uk/b.bravi21">Dr. Barbara Bravi</a> :tada: ! </div>
+       - <div style="text-align: justify"> :calendar: January 17, 2025 - Publication of a paper on the CausalXtract tool, which extracts features from time series to reconstruct temporal causal networks, in  <a href="https://elifesciences.org/articles/95485"><em>eLife<em></a> :tada: ! </div>
+       - <div style="text-align: justify"> :calendar: December 23, 2024 - Publication of the preprint on the extension of the MIIC algorithm to a search-and-score approach applied to categorical data in  <a href="https://arxiv.org/abs/2412.17508"><em>arXiv</em></a> :tada: ! </div>
+       - <div style="text-align: justify"> :calendar: October 2024 - Second stay in  <a href="https://profiles.imperial.ac.uk/b.bravi21">Dr. Barbara Bravi's</a> team at Imperial College London :gb: </div>
+       - <div style="text-align: justify"> :calendar: September 2024 - Participation in the retreat of young researchers from Institut Curie, Centre des Cordeliers, and Institute of Biotechnology of the Czech Academy of Sciences in Prague :czech_republic: </div>
+       - <div style="text-align: justify"> :calendar: September 2023 - Presentation of my thesis project and preliminary results at the workshop of the  <a href="https://centreborelli.ens-paris-saclay.fr/en/artificial-intelligence-data-science-and-cybersecurity">AI-DSCY team</a> at the Centre Borelli in Paris :fr: </div>
+       - <div style="text-align: justify"> :calendar: June 2023 -  First stay in  <a href="https://profiles.imperial.ac.uk/b.bravi21">Dr. Barbara Bravi's</a> team at Imperial College London :gb: </div>
+       - <div style="text-align: justify"> :calendar: October 2022 - Start of my PhD at Institut Curie under the supervision of  <a href="http://kinefold.curie.fr/isambertlab">Dr. Hervé Isambert</a> and co-supervised by  <a href="https://profiles.imperial.ac.uk/b.bravi21">Dr. Barbara Bravi</a> :tada: ! </div>
       columns: '1'
 
       # Page type to display. E.g. post, talk, publication...
