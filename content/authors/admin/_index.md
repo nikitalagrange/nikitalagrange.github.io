@@ -62,7 +62,7 @@ education:
     date_start: 2022-10-01
     date_end: ''
     summary: |
-      Thesis on the development of a new algorithm for causal discovery in the presence of latent variables. Supervised by [Dr. Hervé Isambert](http://kinefold.curie.fr/isambertlab) and co-supervised by [Dr. Barbara Bravi](https://profiles.imperial.ac.uk/b.bravi21) 
+      Thesis on the development of a new algorithm for causal discovery in the presence of latent variables, supervised by [Dr. Hervé Isambert](http://kinefold.curie.fr/isambertlab) and co-supervised by [Dr. Barbara Bravi](https://profiles.imperial.ac.uk/b.bravi21) 
     button:
       text: 'Read Thesis'
       url: 'https://theses.fr/s383983?domaine=these'
@@ -72,13 +72,13 @@ education:
     date_end: 2022-09-01
     summary: |
       Courses in machine learning, sequence bioinformatics, structural bioinformatics, biological
-      networks, computational neuroscience, biomathematics, graph theory
+      networks, computational neuroscience, biomathematics, and graph theory
   - area: B.Sc. Sciences of Live
     institution: Sorbonne University
     date_start: 2018-09-01
     date_end: 2020-09-01
     summary: |
-      Interdisciplinary courses ranging from the fundamentals of biology to biomathematics and
+      Interdisciplinary courses ranging from fundamentals of biology to biomathematics and
       bioinformatics
 work:
   - position: Consultant
@@ -88,8 +88,8 @@ work:
     date_start: 2024-02-01
     date_end: 2025-10-01
     summary: |
-      Analysis of data from student satisfaction surveys in the context of a new pedagogy using
-      an exploratory analysis
+      Analysis of data from student satisfaction survey in the context of a new pedagogy using
+      exploratory analysis
   - position: Teaching Assistant
     company_name: Sorbonne University
     company_url: https://sciences.sorbonne-universite.fr/en
@@ -98,7 +98,7 @@ work:
     date_end: 2023-11-30
     summary: |
       Teaching [Python](https://formations-sciences.sorbonne-universite.fr/dl/UE%20licences/UE_licence_cycle_integration/LU1IN001.pdf) and [C](https://formations-sciences.sorbonne-universite.fr/dl/UE%20licences/UE_licence_cycle_integration/LU1IN002.pdf) programming to undergraduates and biological network inference
-      to masters students
+      to master's students
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
