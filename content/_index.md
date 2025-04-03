@@ -36,9 +36,9 @@ sections:
       title: '📚 Research'
       subtitle: ''
       text: |-
-        <div style="text-align: justify"> I am a PhD student at <a href="https://institut-curie.org/institut-curie-research-center">Institut Curie</a> in Paris. My thesis focuses on causal discovery. More specifically, I am trying to extend the <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005662">miic</a> algorithm developed within <a href="http://kinefold.curie.fr/isambertlab/">The Isambert Lab</a> in a search-and-score mode. The goal is to improve the performance of causal discovery algorithms with the aim of applying this method to biomedical data that are known to be complex and non-linear data.
+        <div style="text-align: justify"> I am a PhD student at <a href="https://institut-curie.org/institut-curie-research-center">Institut Curie</a> in Paris. My thesis focuses on causal discovery. More specifically, I am working on extending the <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005662">MIIC</a> algorithm, developed within <a href="http://kinefold.curie.fr/isambertlab/">the Isambert Lab</a> to a search-and-score mode. The goal is to improve the performance of causal discovery algorithms with the aim of applying this method to biomedical data, which are known to be complex and non-linear.
         
-        Otherwise, I am interested in developing new machine learning algorithms that are more based on human reasoning and that are interpretable. </div>
+        Beyond that, I am interested in developing new machine learning algorithms that are more grounded in human reasoning and are interpretable. </div>
     design:
       columns: '1'
   #- block: collection
@@ -80,10 +80,10 @@ sections:
       title: Academic Services
       subtitle: ''
       text: |-
-        - Representative of doctoral students on [EDITE doctoral school board](https://www.edite-de-paris.fr/conseil-de-ledite/)
+        - Representative of doctoral students on the [EDITE doctoral school board](https://www.edite-de-paris.fr/conseil-de-ledite/)
             - Participation in the doctoral school board and decision-making processes
         - Reviewer for the [NeurIPS BDU Workshop 2024](https://gp-seminar-series.github.io/neurips-2024/)
-            - Review of two submissions for the NeurIPS 2024 Workshop on Bayesian Decision-making and Uncertainty
+            - Reviewed two submissions for the NeurIPS 2024 Workshop on Bayesian Decision-making and Uncertainty
       columns: '1'
 
   
@@ -93,7 +93,7 @@ sections:
       title: '📰 News'
       subtitle: ''
       text: |-
-       - <div style="text-align: justify"> 📅 January 23, 2025, publication of synthetic health data generation paper in collaboration with Institut Roche in <a href="https://www.nature.com/articles/s41746-025-01431-6">npj Digital Medicine</a> :tada: ! </div>
+       - <div style="text-align: justify"> 📅 January 23, 2025 - Publication of a paper on synthetic health data generation with Institut Roche in <a href="https://www.nature.com/articles/s41746-025-01431-6">*npj Digital Medicine*</a> :tada: ! </div>
        - <div style="text-align: justify"> :calendar: January 17, 2025, publication of the paper on the CausalXtract tool which extracts features from time series in order to reconstruct temporal causal networks in  <a href="https://elifesciences.org/articles/95485">eLife</a> :tada: ! </div>
        - <div style="text-align: justify"> :calendar: December 23, 2024, publication of the preprint on the extension of the miic algorithm in a search-and-score approach applied to categorical data in  <a href="https://arxiv.org/abs/2412.17508">arXiv</a> :tada: ! </div>
        - <div style="text-align: justify"> :calendar: October 2024, second stay in  <a href="https://profiles.imperial.ac.uk/b.bravi21">Dr. Barbara Bravi's</a> team at Imperial College in London :gb: </div>
