@@ -94,7 +94,7 @@ sections:
       subtitle: ''
       text: |-
        - <div style="text-align: justify"> 📅 January 23, 2025 - Publication of a paper on synthetic health data generation with Institut Roche in <a href="https://www.nature.com/articles/s41746-025-01431-6"><em>npj Digital Medicine</em></a> :tada: ! </div>
-       - <div style="text-align: justify"> :calendar: January 17, 2025 - Publication of a paper on the CausalXtract tool, which extracts features from time series to reconstruct temporal causal networks, in  <a href="https://elifesciences.org/articles/95485">eLife</a> :tada: ! </div>
+       - <div style="text-align: justify"> :calendar: January 17, 2025 - Publication of a paper on the CausalXtract tool, which extracts features from time series to reconstruct temporal causal networks, in  <a href="https://elifesciences.org/articles/95485"><em>eLife</em></a> :tada: ! </div>
        - <div style="text-align: justify"> :calendar: December 23, 2024 - Publication of the preprint on the extension of the MIIC algorithm to a search-and-score approach applied to categorical data in  <a href="https://arxiv.org/abs/2412.17508">arXiv</a> :tada: ! </div>
        - <div style="text-align: justify"> :calendar: October 2024 - Second stay in  <a href="https://profiles.imperial.ac.uk/b.bravi21">Dr. Barbara Bravi's</a> team at Imperial College London :gb: </div>
        - <div style="text-align: justify"> :calendar: September 2024 - Participation in the retreat of young researchers from Institut Curie, Centre des Cordeliers, and Institute of Biotechnology of the Czech Academy of Sciences in Prague :czech_republic: </div>
