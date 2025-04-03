@@ -93,6 +93,8 @@ sections:
       title: '📰 News'
       subtitle: ''
       text: |-
+    <details>
+      <summary>Click me</summary>
        - <div style="text-align: justify"> 📅 January 23, 2025 - Publication of a paper on synthetic health data generation with Institut Roche in <a href="https://www.nature.com/articles/s41746-025-01431-6"><em>npj Digital Medicine</em></a> :tada: ! </div>
        - <div style="text-align: justify"> :calendar: January 17, 2025 - Publication of a paper on the CausalXtract tool, which extracts features from time series to reconstruct temporal causal networks in  <a href="https://elifesciences.org/articles/95485"><i>eLife</i></a> :tada: ! </div>
        - <div style="text-align: justify"> :calendar: December 23, 2024 - Publication of the preprint on the extension of the MIIC algorithm to a search-and-score approach applied to categorical data in  <a href="https://arxiv.org/abs/2412.17508"><i>arXiv</i></a> :tada: ! </div>
@@ -101,6 +103,7 @@ sections:
        - <div style="text-align: justify"> :calendar: September 2023 - Presentation of my thesis project and preliminary results at the workshop of the  <a href="https://centreborelli.ens-paris-saclay.fr/en/artificial-intelligence-data-science-and-cybersecurity">AI-DSCY team</a> at Centre Borelli in Paris :fr: </div>
        - <div style="text-align: justify"> :calendar: June 2023 -  First stay in  <a href="https://profiles.imperial.ac.uk/b.bravi21">Dr. Barbara Bravi's</a> team at Imperial College London :gb: </div>
        - <div style="text-align: justify"> :calendar: October 2022 - Start of my PhD at Institut Curie under the supervision of  <a href="http://kinefold.curie.fr/isambertlab">Dr. Hervé Isambert</a> and co-supervised by  <a href="https://profiles.imperial.ac.uk/b.bravi21">Dr. Barbara Bravi</a> :tada: ! </div>
+    </details>
       columns: '1'
 
       # Page type to display. E.g. post, talk, publication...
