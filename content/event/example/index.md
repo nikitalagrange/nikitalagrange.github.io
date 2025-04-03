@@ -12,8 +12,8 @@ address:
   region: Czech Republic
   country: Czech Republic
 
-summary: Presentation of my thesis work at the retreat between young researchers from the Institut Curie, the Centre des Cordeliers and the Institute of Biotechnology of the Czech Academy of Sciences in Prague, Czech Republic
-abstract:  Presentation of my thesis work at the retreat between young researchers from the [Institut Curie](https://institut-curie.org/institut-curie-research-center), the [Centre des Cordeliers](https://www.crcordeliers.fr/en/home/) and the [Institute of Biotechnology of the Czech Academy of Sciences](https://www.ibt.cas.cz/en/) in Prague, Czech Republic
+summary: Presentation of my thesis work at the retreat for young researchers from Institut Curie, Centre des Cordeliers, and Institute of Biotechnology of the Czech Academy of Sciences in Prague, Czech Republic
+abstract:  Presentation of my thesis work at the retreat for young researchers from [Institut Curie](https://institut-curie.org/institut-curie-research-center), [Centre des Cordeliers](https://www.crcordeliers.fr/en/home/) and [Institute of Biotechnology of the Czech Academy of Sciences](https://www.ibt.cas.cz/en/) in Prague, Czech Republic
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
