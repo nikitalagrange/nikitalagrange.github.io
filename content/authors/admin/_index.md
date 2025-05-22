@@ -172,6 +172,7 @@ languages:
 highlight_name: true
 ---
 
+
 ## About Me
 
 <div style="text-align: justify"> <p style="color: red"><b>I am on the job market and planning to defend my PhD thesis between late September and early October 2025 - feel free to reach out !</b></p> I am Nikita Lagrange, a PhD student at <a href="https://institut-curie.org/institut-curie-research-center">Institut Curie</a> in Paris under the supervision of  <a href="http://kinefold.curie.fr/isambertlab">Dr. Hervé Isambert</a> and the co-supervision of  <a href="https://profiles.imperial.ac.uk/b.bravi21">Dr. Barbara Bravi</a>. My thesis focuses on the development of a new search-and-score algorithm for causal discovery in the presence of latent variables using information theory. </div>
