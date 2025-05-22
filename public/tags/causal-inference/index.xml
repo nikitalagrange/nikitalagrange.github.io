@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Causal Inference | Nikita Lagrange</title>
+    <link>http://localhost:1313/tags/causal-inference/</link>
+      <atom:link href="http://localhost:1313/tags/causal-inference/index.xml" rel="self" type="application/rss+xml" />
+    <description>Causal Inference</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 17 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_407b242b9d798dd.png</url>
+      <title>Causal Inference</title>
+      <link>http://localhost:1313/tags/causal-inference/</link>
+    </image>
+    
+    <item>
+      <title>CausalXtract, a flexible pipeline to extract causal effects from live-cell time-lapse imaging data</title>
+      <link>http://localhost:1313/publication/simon-causalxtract-2025/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/simon-causalxtract-2025/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
