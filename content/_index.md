@@ -36,9 +36,15 @@ sections:
       title: '📚 Research'
       subtitle: ''
       text: |-
-        <div style="text-align: justify"> I am a PhD student at <a href="https://institut-curie.org/institut-curie-research-center">Institut Curie</a> in Paris. My thesis focuses on causal discovery. More specifically, I am working on extending the <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005662">MIIC</a> algorithm, developed within <a href="http://kinefold.curie.fr/isambertlab/">the Isambert Lab</a> to a search-and-score mode. The goal is to improve the performance of causal discovery algorithms with the aim of applying this method to biomedical data, which are known to be complex and non-linear.
-        
-        Beyond that, I am interested in developing new machine learning algorithms that are more grounded in human reasoning and are interpretable. </div>
+        <div style="text-align: left; max-width: 700px; margin: auto; line-height: 1.6;"> 
+          <p> I am a PhD student at <a href="https://institut-curie.org/institut-curie-research-center" target="_blank">Institut Curie</a> in Paris. My thesis focuses on causal discovery. More specifically, I am working on extending the <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005662" target="_blank">MIIC</a> algorithm, developed within <a href="http://kinefold.curie.fr/isambertlab/" target="_blank">the Isambert Lab</a> to a search-and-score mode.
+          </p>
+
+          <p>
+             The goal is to improve the efficiency and robustness of causal discovery algorithms, 
+              particularly when applied to complex and non-linear biomedical data.
+          </p>
+          <p> Beyond that, I am interested in developing new machine learning algorithms that are more grounded in human reasoning and are interpretable.</p> </div>
     design:
       columns: '1'
   #- block: collection
@@ -61,6 +67,7 @@ sections:
         folders:
           - publication
         exclude_featured: false
+        profile: false
     design:
       view: citation
   - block: collection
@@ -80,28 +87,124 @@ sections:
       title: Academic Services
       subtitle: ''
       text: |-
-        - Representative of doctoral students on the [EDITE doctoral school board](https://www.edite-de-paris.fr/conseil-de-ledite/)
-            - Participation in the doctoral school board and decision-making processes
-        - Reviewer for the [NeurIPS BDU Workshop 2024](https://gp-seminar-series.github.io/neurips-2024/)
-            - Reviewed two submissions for the NeurIPS 2024 Workshop on Bayesian Decision-making and Uncertainty
-      columns: '1'
+        **Representative of doctoral students** on the [EDITE doctoral school board](https://www.edite-de-paris.fr/conseil-de-ledite/)  
+        _Participation in the board and involvement in key decision-making processes._
 
-  
+        **Reviewer** for the [NeurIPS BDU Workshop 2024](https://gp-seminar-series.github.io/neurips-2024/)  
+        _Reviewed two submissions for the NeurIPS 2024 Workshop on Bayesian Decision-making and Uncertainty._
+    columns: '1'
+
   - block: markdown
     id: news
     content:
-      title: '📰 News'
-      subtitle: ''
+      title: "📰 News"
+      subtitle: ""
       text: |-
-       - <div style="text-align: justify"> 📅 January 23, 2025 - Publication of a paper on synthetic health data generation with Institut Roche in <a href="https://www.nature.com/articles/s41746-025-01431-6"><em>npj Digital Medicine</em></a> :tada: ! </div>
-       - <div style="text-align: justify"> :calendar: January 17, 2025 - Publication of a paper on the CausalXtract tool, which extracts features from time series to reconstruct temporal causal networks in  <a href="https://elifesciences.org/articles/95485"><i>eLife</i></a> :tada: ! </div>
-       - <div style="text-align: justify"> :calendar: December 23, 2024 - Publication of the preprint on the extension of the MIIC algorithm to a search-and-score approach applied to categorical data in  <a href="https://arxiv.org/abs/2412.17508"><i>arXiv</i></a> :tada: ! </div>
-       - <div style="text-align: justify"> :calendar: October 2024 - Second stay in  <a href="https://profiles.imperial.ac.uk/b.bravi21">Dr. Barbara Bravi's</a> team at Imperial College London :gb: </div>
-       - <div style="text-align: justify"> :calendar: September 2024 - Participation in the retreat of young researchers from Institut Curie, Centre des Cordeliers, and Institute of Biotechnology of the Czech Academy of Sciences in Prague :czech_republic: </div>
-       - <div style="text-align: justify"> :calendar: September 2023 - Presentation of my thesis project and preliminary results at the workshop of the  <a href="https://centreborelli.ens-paris-saclay.fr/en/artificial-intelligence-data-science-and-cybersecurity">AI-DSCY team</a> at Centre Borelli in Paris :fr: </div>
-       - <div style="text-align: justify"> :calendar: June 2023 -  First stay in  <a href="https://profiles.imperial.ac.uk/b.bravi21">Dr. Barbara Bravi's</a> team at Imperial College London :gb: </div>
-       - <div style="text-align: justify"> :calendar: October 2022 - Start of my PhD at Institut Curie under the supervision of  <a href="http://kinefold.curie.fr/isambertlab">Dr. Hervé Isambert</a> and co-supervised by  <a href="https://profiles.imperial.ac.uk/b.bravi21">Dr. Barbara Bravi</a> :tada: ! </div>
-      columns: '1'
+        <style>
+          .timeline-wrapper {
+            max-width: 750px;
+            margin: 3rem auto;
+            max-height: 400px;
+            overflow-y: auto;
+            padding-right: 1rem;
+            scroll-behavior: smooth;
+          }
+          .timeline {
+            border-left: 3px solid #ceb2f8;
+            padding-left: 1rem;
+          }
+          .timeline .event {
+            position: relative;
+            margin-bottom: 2rem;
+            padding-left: 1rem;
+          }
+          .timeline .event::before {
+            content: '●';
+            color: #ceb2f8;
+            position: absolute;
+            left: -0.9rem;
+            top: 0.15rem;
+            font-size: 1.1rem;
+          }
+          .timeline .date {
+            font-weight: bold;
+            color: #ceb2f8;
+            display: block;
+            margin-bottom: 0.2rem;
+          }
+          .timeline p {
+            margin: 0;
+            line-height: 1.5;
+          }
+          .event.hidden {
+           opacity: 0;
+           max-height: 0;
+           overflow: hidden;
+           transition: all 0.4s ease;
+          }
+        #seeMoreBtn {
+          display: block;
+          margin: 1rem auto;
+          background-color: #ceb2f8;
+          color: #fff;
+          border: none;
+          padding: 0.5rem 1rem;
+          border-radius: 5px;
+          cursor: pointer;
+          font-weight: bold;
+          }
+        #seeMoreBtn:hover {
+          background-color: #b290e0;
+          }
+        </style>
+
+        <div class="timeline-wrapper">
+          <section class="timeline">
+            <div class="event">
+              <span class="date">📅 <strong> January 23, 2025</strong></span>
+              <p>Publication of a paper on synthetic health data generation with Institut Roche in <a href="https://www.nature.com/articles/s41746-025-01431-6" target="_blank"><em>npj Digital Medicine</em></a> 🎉 !</p>
+            </div>
+            <div class="event">
+              <span class="date">📅<strong> January 17, 2025</strong></span>
+              <p>Publication of a paper on the CausalXtract tool, which extracts features from time series to reconstruct temporal causal networks in <a href="https://elifesciences.org/articles/95485" target="_blank"><i>eLife</i></a> 🎉 !</p>
+            </div>
+            <div class="event">
+              <span class="date">📅<strong> December 23, 2024 </strong></span>
+              <p>Publication of the preprint on the extension of the MIIC algorithm to a search-and-score approach applied to categorical data in <a href="https://arxiv.org/abs/2412.17508" target="_blank"><i>arXiv</i></a> 🎉 !</p>
+            </div>
+            <div class="event hidden">
+              <span class="date">📅<strong>October 2024</strong></span>
+              <p> Second stay in <a href="https://profiles.imperial.ac.uk/b.bravi21" target="_blank">Dr. Barbara Bravi's</a> team at Imperial College London 🇬🇧</p>
+            </div>
+            <div class="event hidden">
+              <span class="date">📅<strong>September 2024</strong></span>
+              <p>Participation in the retreat of young researchers from Institut Curie, Centre des Cordeliers, and Institute of Biotechnology of the Czech Academy of Sciences in Prague 🇨🇿</p>
+            </div>
+            <div class="event hidden">
+              <span class="date">📅<strong>September 2023</strong></span>
+              <p>Presentation of my thesis project and preliminary results at the workshop of the <a href="https://centreborelli.ens-paris-saclay.fr/en/artificial-intelligence-data-science-and-cybersecurity" target="_blank">AI-DSCY team</a> at Centre Borelli in Paris 🇫🇷</p>
+            </div>
+            <div class="event hidden">
+              <span class="date">📅<strong>June 2023</strong></span>
+              <p>First stay in <a href="https://profiles.imperial.ac.uk/b.bravi21" target="_blank">Dr. Barbara Bravi's</a> team at Imperial College London 🇬🇧</p>
+            </div>
+            <div class="event hidden">
+              <span class="date">📅<strong>October 2022</strong></span>
+              <p>Start of my PhD at Institut Curie under the supervision of <a href="http://kinefold.curie.fr/isambertlab" target="_blank">Dr. Hervé Isambert</a> and co-supervised by <a href="https://profiles.imperial.ac.uk/b.bravi21"target="_blank">Dr. Barbara Bravi</a> 🎉 !</p>
+            </div>
+          </section>
+          <button id="seeMoreBtn" onclick="showMoreEvents()">See more</button>
+        </div>
+
+        <script>
+        function showMoreEvents() {
+          const hiddenEvents = document.querySelectorAll('.event.hidden');
+          hiddenEvents.forEach(e => e.classList.remove('hidden'));
+          document.getElementById('seeMoreBtn').style.display = 'none';
+        }
+        </script>
+    columns: '1'
+
 
       # Page type to display. E.g. post, talk, publication...
   - block: markdown

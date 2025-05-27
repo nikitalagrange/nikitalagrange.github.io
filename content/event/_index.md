@@ -7,7 +7,6 @@ cms_exclude: true
 view: list
 show_date: false
 
-
 # Optional cover image (relative to `assets/media/` folder).
 image:
   caption: ''

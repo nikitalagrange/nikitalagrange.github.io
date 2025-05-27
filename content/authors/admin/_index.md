@@ -23,7 +23,7 @@ role:  PhD Student
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Institut Curie
-    url: http://kinefold.curie.fr/isambertlab/
+    url: https://institut-curie.org/person/nikita-lagrange
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -57,29 +57,30 @@ interests:
   - Bioinformatics 
 
 education:
-  - area: PhD Computer Science
+  - area: PhD in Computer Science
     institution: Sorbonne University
     date_start: 2022-10-01
     date_end: ''
     summary: |
-      Thesis on the development of a new algorithm for causal discovery in the presence of latent variables, supervised by [Dr. Hervé Isambert](http://kinefold.curie.fr/isambertlab) and co-supervised by [Dr. Barbara Bravi](https://profiles.imperial.ac.uk/b.bravi21) 
+      Thesis on the development of a new algorithm for causal discovery in the presence of latent variables,
+      supervised by [Dr. Hervé Isambert](http://kinefold.curie.fr/isambertlab) and
+      co-supervised by [Dr. Barbara Bravi](https://profiles.imperial.ac.uk/b.bravi21) 
     button:
       text: 'Read Thesis'
       url: 'https://theses.fr/s383983?domaine=these'
-  - area: M.Sc. Bioinformatics & Modelling
+  - area: M.Sc. in Bioinformatics & Modelling
     institution: Sorbonne University
     date_start: 2020-09-01
     date_end: 2022-09-01
     summary: |
-      Courses in machine learning, sequence bioinformatics, structural bioinformatics, biological
+      Courses in machine learning, sequence and structural bioinformatics, biological
       networks, computational neuroscience, biomathematics, and graph theory
-  - area: B.Sc. Sciences of Live
+  - area: B.Sc. in Life Sciences
     institution: Sorbonne University
     date_start: 2018-09-01
     date_end: 2020-09-01
     summary: |
-      Interdisciplinary courses ranging from fundamentals of biology to biomathematics and
-      bioinformatics
+      Interdisciplinary training in biology, mathematics and computer science
 work:
   - position: Consultant
     company_name: Sorbonne University
@@ -88,8 +89,8 @@ work:
     date_start: 2024-02-01
     date_end: 2025-10-01
     summary: |
-      Analysis of data from student satisfaction survey in the context of a new pedagogy using
-      exploratory analysis
+      Conducted exploratory data analysis on student satisfaction survey as part of the evaluation of a new
+      pedagogy initiative
   - position: Teaching Assistant
     company_name: Sorbonne University
     company_url: https://sciences.sorbonne-universite.fr/en
@@ -97,8 +98,9 @@ work:
     date_start: 2022-10-01
     date_end: 2023-11-30
     summary: |
-      Teaching [Python](https://formations-sciences.sorbonne-universite.fr/dl/UE%20licences/UE_licence_cycle_integration/LU1IN001.pdf) and [C](https://formations-sciences.sorbonne-universite.fr/dl/UE%20licences/UE_licence_cycle_integration/LU1IN002.pdf) programming to undergraduates and biological network inference
-      to master's students
+      Taught Python and C programming to undergraduate students, and biological network inference to master’s
+      students
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -127,11 +129,11 @@ skills:
         description: ''
         percent: 60
         icon: devicon/matlab
-      - name: php
+      - name: PHP
         description: ''
         percent: 60
         icon: devicon/php
-      - name: html
+      - name: HTML
         description: ''
         percent: 60
         icon: devicon/html5
@@ -170,10 +172,42 @@ languages:
 
 #  Highlight the author in author lists? (true/false)
 highlight_name: true
+
 ---
 
 
 ## About Me
 
-<div style="text-align: justify"> <p style="color: red"><b>I am on the job market and planning to defend my PhD thesis between late September and early October 2025 - feel free to reach out !</b></p> I am Nikita Lagrange, a PhD student at <a href="https://institut-curie.org/institut-curie-research-center">Institut Curie</a> in Paris under the supervision of  <a href="http://kinefold.curie.fr/isambertlab">Dr. Hervé Isambert</a> and the co-supervision of  <a href="https://profiles.imperial.ac.uk/b.bravi21">Dr. Barbara Bravi</a>. My thesis focuses on the development of a new search-and-score algorithm for causal discovery in the presence of latent variables using information theory. </div>
-<br>
+
+<style>
+ 
+  .intro-box {
+    text-align: left;
+    max-width: 700px;
+    margin: auto;
+    line-height: 1.6;
+  }
+
+  .highlight {
+    color: #e57373;
+    font-weight: bold;
+  }
+</style>
+
+<div class="intro-box">
+  <p class="highlight">
+    📢 I am on the job market and planning to defend my PhD thesis in Fall 2025 — feel free to reach out !
+  </p>
+
+  <p>
+    I am Nikita Lagrange, a PhD student at 
+    <a href="https://institut-curie.org/institut-curie-research-center" target="_blank">Institut Curie</a> in Paris under the supervision of 
+    <a href="http://kinefold.curie.fr/isambertlab" target="_blank">Dr. Hervé Isambert</a> and the co-supervision of 
+    <a href="https://profiles.imperial.ac.uk/b.bravi21" target="_blank">Dr. Barbara Bravi</a>.
+  </p>
+
+  <p>
+    My thesis focuses on the development of a new search-and-score algorithm for causal discovery in the presence of latent variables using information theory.
+  </p>
+</div>
+
