@@ -19,6 +19,7 @@ publication_types:
 publication: '*eLife*'
 doi: 10.7554/eLife.95485
 reading_time: false
+share: false
 abstract: Live-cell microscopy routinely provides massive amounts of time-lapse images
   of complex cellular systems under various physiological or therapeutic conditions.
   However, this wealth of data remains difficult to interpret in terms of causal effects.

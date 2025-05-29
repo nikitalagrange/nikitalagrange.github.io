@@ -12,6 +12,7 @@ authors:
 date: '2025-01-23'
 publishDate: '2025-02-13T16:41:15.027490Z'
 reading_time: false
+share: false
 publication_types:
 - article-journal
 publication: '*npj Digital Medicine*'

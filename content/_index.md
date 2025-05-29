@@ -145,16 +145,18 @@ sections:
         #seeMoreBtn {
           display: block;
           margin: 1rem auto;
-          background-color: #ceb2f8;
-          color: #fff;
+          background-color: #6b3fa0;
+          color: #ffffff;
           border: none;
           padding: 0.5rem 1rem;
           border-radius: 5px;
           cursor: pointer;
           font-weight: bold;
+          transition: background-color 0.3s ease, transform 0.2s ease;
           }
         #seeMoreBtn:hover {
-          background-color: #b290e0;
+          background-color: #582f89;
+          transform: translateY(-2px);
           }
         </style>
 
@@ -173,23 +175,23 @@ sections:
               <p>Publication of the preprint on the extension of the MIIC algorithm to a search-and-score approach applied to categorical data in <a href="https://arxiv.org/abs/2412.17508" target="_blank"><i>arXiv</i></a> 🎉 !</p>
             </div>
             <div class="event hidden">
-              <span class="date">📅<strong>October 2024</strong></span>
+              <span class="date">📅<strong> October 2024</strong></span>
               <p> Second stay in <a href="https://profiles.imperial.ac.uk/b.bravi21" target="_blank">Dr. Barbara Bravi's</a> team at Imperial College London 🇬🇧</p>
             </div>
             <div class="event hidden">
-              <span class="date">📅<strong>September 2024</strong></span>
+              <span class="date">📅<strong> September 2024</strong></span>
               <p>Participation in the retreat of young researchers from Institut Curie, Centre des Cordeliers, and Institute of Biotechnology of the Czech Academy of Sciences in Prague 🇨🇿</p>
             </div>
             <div class="event hidden">
-              <span class="date">📅<strong>September 2023</strong></span>
+              <span class="date">📅<strong> September 2023</strong></span>
               <p>Presentation of my thesis project and preliminary results at the workshop of the <a href="https://centreborelli.ens-paris-saclay.fr/en/artificial-intelligence-data-science-and-cybersecurity" target="_blank">AI-DSCY team</a> at Centre Borelli in Paris 🇫🇷</p>
             </div>
             <div class="event hidden">
-              <span class="date">📅<strong>June 2023</strong></span>
+              <span class="date">📅<strong> June 2023</strong></span>
               <p>First stay in <a href="https://profiles.imperial.ac.uk/b.bravi21" target="_blank">Dr. Barbara Bravi's</a> team at Imperial College London 🇬🇧</p>
             </div>
             <div class="event hidden">
-              <span class="date">📅<strong>October 2022</strong></span>
+              <span class="date">📅<strong> October 2022</strong></span>
               <p>Start of my PhD at Institut Curie under the supervision of <a href="http://kinefold.curie.fr/isambertlab" target="_blank">Dr. Hervé Isambert</a> and co-supervised by <a href="https://profiles.imperial.ac.uk/b.bravi21"target="_blank">Dr. Barbara Bravi</a> 🎉 !</p>
             </div>
           </section>
@@ -218,8 +220,14 @@ sections:
           📍Institut Curie, Research Center, CNRS-UMR168 <br>
             Pavillon Curie, 1st floor, Office 01.09.b <br>
             11, rue Pierre et Marie Curie <br> 75005 Paris</p><br>
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1312.8575416863475!2d2.3431009000000063!3d48.844573100000005!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e671c29be381a9%3A0xcebd6da848fd403c!2s11%20Rue%20Pierre%20et%20Marie%20Curie%2C%2075005%20Paris!5e0!3m2!1sfr!2sfr!4v1739726502431!5m2!1sfr!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> 
 
+          <div style="margin-top: 20px; border: 1px solid #444; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 5px rgba(0,0,0,0.3);">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1312.8575416863475!2d2.3431009000000063!3d48.844573100000005!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e671c29be381a9%3A0xcebd6da848fd403c!2s11%20Rue%20Pierre%20et%20Marie%20Curie%2C%2075005%20Paris!5e0!3m2!1sfr!2sfr!4v1739726502431!5m2!1sfr!2sfr"
+              width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+            </iframe>
+          </div>
+        </div>  
+      
       columns: '1'
 
 
