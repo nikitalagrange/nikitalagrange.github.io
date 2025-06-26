@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Motivation | Nikita Lagrange</title>
+    <link>http://localhost:1313/tags/motivation/</link>
+      <atom:link href="http://localhost:1313/tags/motivation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Motivation</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 21 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_407b242b9d798dd.png</url>
+      <title>Motivation</title>
+      <link>http://localhost:1313/tags/motivation/</link>
+    </image>
+    
+    <item>
+      <title>Hybridation et pédagogie par projet : retour d’expérience</title>
+      <link>http://localhost:1313/publication/delva2025hybridation/</link>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/delva2025hybridation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

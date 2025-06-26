@@ -18,7 +18,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume_NL.pdf
+        url: uploads/CV_NL.pdf
     design:
       css_class: dark
       background:
@@ -44,7 +44,7 @@ sections:
              The goal is to improve the efficiency and robustness of causal discovery algorithms, 
               particularly when applied to complex and non-linear biomedical data.
           </p>
-          <p> Beyond that, I am interested in developing new machine learning algorithms that are more grounded in human reasoning and are interpretable.</p> </div>
+          <p> Beyond that, I am interested in developing machine learning algorithms that are more grounded in human reasoning and are interpretable.</p> </div>
     design:
       columns: '1'
   #- block: collection
@@ -91,7 +91,6 @@ sections:
         _Participation in the board and involvement in key decision-making processes._
 
         **Reviewer** for the [NeurIPS BDU Workshop 2024](https://gp-seminar-series.github.io/neurips-2024/)  
-        _Reviewed two submissions for the NeurIPS 2024 Workshop on Bayesian Decision-making and Uncertainty._
     columns: '1'
 
   - block: markdown
@@ -142,7 +141,7 @@ sections:
            overflow: hidden;
            transition: all 0.4s ease;
           }
-        #seeMoreBtn {
+          .toggle-btn {
           display: block;
           margin: 1rem auto;
           background-color: #6b3fa0;
@@ -153,24 +152,36 @@ sections:
           cursor: pointer;
           font-weight: bold;
           transition: background-color 0.3s ease, transform 0.2s ease;
-          }
-        #seeMoreBtn:hover {
+        }
+        .toggle-btn:hover {
           background-color: #582f89;
           transform: translateY(-2px);
-          }
+        }        
         </style>
 
         <div class="timeline-wrapper">
           <section class="timeline">
+          <div class="event">
+            <span class="date">📅 <strong>May 1, 2025</strong></span>
+              <p>Our method for search-and-score learning of ancestral graphs has been accepted at <a href="https://openreview.net/forum?id=RfqTvlo9XQ" target="_blank">ICML 2025</a> in Vancouver 🇨🇦 ! Looking forward to presenting this work 🎉 !</p>
+          </div>
             <div class="event">
+              <span class="date">📅 <strong>March 11, 2025</strong></span>
+                <p>I presented my PhD thesis in 3 minutes during the EDITE 2025 Doctoral Day at the Centre Pompidou in Paris 🇫🇷 . An exciting challenge in science communication 📣 !</p>
+            </div>
+            <div class="event">
+              <span class="date">📅 <strong>February 21, 2025</strong></span>
+                <p>Our contribution on a feedback from a new hybrid learning approach has been accepted at <a href="https://www.conftool.com/qpes2025/index.php?page=browseSessions&cols=3&form_session=30&mode=table" target="_blank">QPES2025</a> in Brest 🇫🇷  🎉 ! This work results from a data analysis consulting mission at <a href="https://capsule.sorbonne-universite.fr/" target="_blank">CAPSULE</a>, Sorbonne University 🎓</p>
+            </div>
+            <div class="event hidden">
               <span class="date">📅 <strong> January 23, 2025</strong></span>
               <p>Publication of a paper on synthetic health data generation with Institut Roche in <a href="https://www.nature.com/articles/s41746-025-01431-6" target="_blank"><em>npj Digital Medicine</em></a> 🎉 !</p>
             </div>
-            <div class="event">
+            <div class="event hidden">
               <span class="date">📅<strong> January 17, 2025</strong></span>
               <p>Publication of a paper on the CausalXtract tool, which extracts features from time series to reconstruct temporal causal networks in <a href="https://elifesciences.org/articles/95485" target="_blank"><i>eLife</i></a> 🎉 !</p>
             </div>
-            <div class="event">
+            <div class="event hidden">
               <span class="date">📅<strong> December 23, 2024 </strong></span>
               <p>Publication of the preprint on the extension of the MIIC algorithm to a search-and-score approach applied to categorical data in <a href="https://arxiv.org/abs/2412.17508" target="_blank"><i>arXiv</i></a> 🎉 !</p>
             </div>
@@ -195,14 +206,25 @@ sections:
               <p>Start of my PhD at Institut Curie under the supervision of <a href="http://kinefold.curie.fr/isambertlab" target="_blank">Dr. Hervé Isambert</a> and co-supervised by <a href="https://profiles.imperial.ac.uk/b.bravi21"target="_blank">Dr. Barbara Bravi</a> 🎉 !</p>
             </div>
           </section>
-          <button id="seeMoreBtn" onclick="showMoreEvents()">See more</button>
-        </div>
+            <button id="toggleBtn" class="toggle-btn" onclick="toggleEvents()">See more</button>
+          </div>
 
         <script>
-        function showMoreEvents() {
-          const hiddenEvents = document.querySelectorAll('.event.hidden');
+        function toggleEvents() {
+        const hiddenEvents = document.querySelectorAll('.event.hidden');
+        const toggleBtn = document.getElementById('toggleBtn');
+        const isHidden = hiddenEvents.length > 0;
+
+        if (isHidden) {
           hiddenEvents.forEach(e => e.classList.remove('hidden'));
-          document.getElementById('seeMoreBtn').style.display = 'none';
+          toggleBtn.textContent = 'See less';
+        } else {
+          const allEvents = document.querySelectorAll('.event');
+          allEvents.forEach((e, index) => {
+            if (index >= 3) e.classList.add('hidden');
+          });
+          toggleBtn.textContent = 'See more';
+          }
         }
         </script>
     columns: '1'

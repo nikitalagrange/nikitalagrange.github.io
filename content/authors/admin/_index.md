@@ -46,11 +46,10 @@ profiles:
   - icon: academicons/researchgate
     url: https://www.researchgate.net/profile/Nikita-Lagrange
   - icon: academicons/cv
-    url: uploads/resume_NL.pdf
+    url: uploads/CV_NL.pdf
 
 interests:
   - Causal Discovery
-  - Structure Learning
   - Machine Learning
   - Probabilistic Methods
   - Information Theory
@@ -64,7 +63,9 @@ education:
     summary: |
       Thesis on the development of a new algorithm for causal discovery in the presence of latent variables,
       supervised by [Dr. Hervé Isambert](http://kinefold.curie.fr/isambertlab) and
-      co-supervised by [Dr. Barbara Bravi](https://profiles.imperial.ac.uk/b.bravi21) 
+      co-supervised by [Dr. Barbara Bravi](https://profiles.imperial.ac.uk/b.bravi21). <br>
+      Funded through the [Imperial – CNRS Joint PhD Programme](https://www.imperial.ac.uk/cnrs-imperial-international-research-centre/imperial---cnrs-joint-phd-programme/) on Digital Transformations and Global Challenges <br>
+      *Expected defense : Fall 2025*
     button:
       text: 'Read Thesis'
       url: 'https://theses.fr/s383983?domaine=these'
@@ -82,7 +83,7 @@ education:
     summary: |
       Interdisciplinary training in biology, mathematics and computer science
 work:
-  - position: Consultant
+  - position: Data Analysis Consultant
     company_name: Sorbonne University
     company_url: https://capsule.sorbonne-universite.fr/
     company_logo: ''
@@ -98,8 +99,8 @@ work:
     date_start: 2022-10-01
     date_end: 2023-11-30
     summary: |
-      Taught Python and C programming to undergraduate students, and biological network inference to master’s
-      students
+      Taught 80 hours in total : Python and C programming to undergraduate students, and biological network
+      inference to master’s students. Supervised master’s student projects
 
 
 # Skills

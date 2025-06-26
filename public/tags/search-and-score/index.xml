@@ -5,12 +5,20 @@
     <link>http://localhost:1313/tags/search-and-score/</link>
       <atom:link href="http://localhost:1313/tags/search-and-score/index.xml" rel="self" type="application/rss+xml" />
     <description>Search-and-Score</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_407b242b9d798dd.png</url>
       <title>Search-and-Score</title>
       <link>http://localhost:1313/tags/search-and-score/</link>
     </image>
+    
+    <item>
+      <title>An Efficient Search-and-Score Algorithm for Ancestral Graphs using Multivariate Information Scores for Complex Non-linear and Categorical Data</title>
+      <link>http://localhost:1313/publication/lagrange2025an/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/lagrange2025an/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>An efficient search-and-score algorithm for ancestral graphs using multivariate information scores</title>
