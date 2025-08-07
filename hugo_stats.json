@@ -1,6 +1,7 @@
 {
   "htmlElements": {
     "tags": [
+      "\\br",
       "a",
       "article",
       "aside",
@@ -460,7 +461,6 @@
       "section-resume-experience",
       "section-resume-languages",
       "section-resume-skills",
-      "seeMoreBtn",
       "services",
       "show-button",
       "site-header",
