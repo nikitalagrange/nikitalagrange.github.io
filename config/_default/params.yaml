@@ -23,6 +23,7 @@ marketing:
     fathom: ''
     pirsch: ''
     microsoft_clarity: q8bgt0cgxp
+    enable_consent_banner: true
   verification:
     google: ''
     baidu: ''
@@ -59,7 +60,7 @@ features:
   math:
     enable: false
   privacy_pack:
-    enable: false
+    enable: true
 
 profile : false
 

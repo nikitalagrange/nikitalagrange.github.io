@@ -29,7 +29,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:nikita.lagrange@tutanota.com'
+    url: 'mailto:lagrangenikita@gmail.com'
     label: E-mail Me
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/nikitalagrange
@@ -65,7 +65,7 @@ education:
       supervised by [Dr. Hervé Isambert](http://kinefold.curie.fr/isambertlab) and
       co-supervised by [Dr. Barbara Bravi](https://profiles.imperial.ac.uk/b.bravi21). <br>
       Funded through the [Imperial – CNRS Joint PhD Programme](https://www.imperial.ac.uk/cnrs-imperial-international-research-centre/imperial---cnrs-joint-phd-programme/) on Digital Transformations and Global Challenges <br>
-      *Expected defense : Fall 2025*
+      *Expected defense : December 2025*
     button:
       text: 'Read Thesis'
       url: 'https://theses.fr/s383983?domaine=these'
@@ -126,6 +126,14 @@ skills:
         description : ''
         percent: 70
         icon: devicon/c
+      - name: PyTorch
+        description: ''
+        percent: 70
+        icon: devicon/pytorch
+      - name: scikit-learn
+        description: ''
+        percent: 65
+        icon: devicon/scikitlearn
       - name: MATLAB
         description: ''
         percent: 60
@@ -197,7 +205,7 @@ highlight_name: true
 
 <div class="intro-box">
   <p class="highlight">
-    📢 I am on the job market and planning to defend my PhD thesis in Fall 2025 — feel free to reach out !
+    📢 I am on the job market and planning to defend my PhD thesis in December 2025. Feel free to reach out!
   </p>
 
   <p>

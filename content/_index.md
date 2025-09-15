@@ -159,12 +159,18 @@ sections:
         }        
         </style>
 
+
         <div class="timeline-wrapper">
           <section class="timeline">
            <div class="event">
+            <span class="date">📅 <strong>September 1-5, 2025</strong></span>
+              <p>I had the pleasure of attending the <a href="https://paiss.inria.fr/" target="_blank">PRAIRIE/MIAI Artificial Intelligence Summer School (P.A.I.S.S.) </a> in Grenoble 🇫🇷 . It was an unforgettable week of world-class talks from Yann LeCun to Michael Jordan and a community that made the learning stick. I met passionate students from around the world 🌍 and learned a lot through discussions and poster sessions. </br>
+                My gratitude 🙏 goes to the organizers, volunteers and sponsors.</p>
+           </div>
+           <div class="event">
             <span class="date">📅 <strong>July 21-26, 2025</strong></span>
               <p>I had the pleasure of attending the <a href="https://www.eeml.eu/" target="_blank">Eastern European Machine Learning (EEML) Summer School </a> in Sarajevo 🇧🇦, a vibrant event that brought together participants from 44 countries, with over half representing Eastern Europe. This diversity is a key strength of science and collaboration. </br>
-               🙏 My warmest thanks to the amazing organizing team, volunteers, lecturers, and sponsors who made this event possible and accessible.</p>
+                My warmest thanks 🙏 to the amazing organizing team, volunteers, lecturers, and sponsors who made this event possible and accessible.</p>
           </div>
           <div class="event">
             <span class="date">📅 <strong>May 1, 2025</strong></span>
@@ -243,7 +249,7 @@ sections:
       subtitle: ''
       text: |-
         <p style="text-align:center;">
-          📧 <a href=mailto:nikita.lagrange@curie.fr>nikita.lagrange@curie.fr</a> or <a href=mailto:nikita.lagrange@tutanota.com>nikita.lagrange@tutanota.com</a><br><br>
+          📧 <a href=mailto:nikita.lagrange@curie.fr>nikita.lagrange@curie.fr</a> or <a href=mailto:lagrangenikita@gmail.com>lagrangenikita@gmail.com</a><br><br>
           📍Institut Curie, Research Center, CNRS-UMR168 <br>
             Pavillon Curie, 1st floor, Office 01.09.b <br>
             11, rue Pierre et Marie Curie <br> 75005 Paris</p><br>

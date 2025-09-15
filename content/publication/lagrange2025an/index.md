@@ -27,4 +27,5 @@ links:
 - name: URL
   url: https://openreview.net/forum?id=RfqTvlo9XQ
 url_code: 'https://github.com/miicTeam/miicsearchscore'
+url_poster: 'poster.pdf'
 ---
