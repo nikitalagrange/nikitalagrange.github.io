@@ -61,7 +61,6 @@ education:
     date_start: 2022-10-01
     date_end: 2025-12-16
     summary: |
-      *Information and Communication Sciences and Technologies* <br>
       Thesis on the development of a new algorithm for causal discovery in the presence of latent variables,
       supervised by [Dr. Hervé Isambert](http://kinefold.curie.fr/isambertlab) and
       co-supervised by [Dr. Barbara Bravi](https://profiles.imperial.ac.uk/b.bravi). <br>
