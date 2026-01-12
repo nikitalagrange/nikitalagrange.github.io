@@ -37,14 +37,17 @@ sections:
       subtitle: ''
       text: |-
         <div style="text-align: left; max-width: 700px; margin: auto; line-height: 1.6;"> 
-          <p> I am a PhD student at <a href="https://institut-curie.org/institut-curie-research-center" target="_blank">Institut Curie</a> in Paris. My thesis focuses on causal discovery. More specifically, I am working on extending the <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005662" target="_blank">MIIC</a> algorithm, developed within <a href="http://kinefold.curie.fr/isambertlab/" target="_blank">the Isambert Lab</a> to a search-and-score mode.
+          <p> 
+          I completed my PhD at <a href="https://institut-curie.org/institut-curie-research-center" target="_blank">Institut Curie</a> in Paris, where my research focused on causal discovery. More specifically, I developed extensions of the <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005662" target="_blank">MIIC</a> algorithm, originally developed within <a href="http://kinefold.curie.fr/isambertlab/" target="_blank">the Isambert Lab</a> toward a search-and-score framework.
           </p>
 
           <p>
-             The goal is to improve the efficiency and robustness of causal discovery algorithms, 
-              particularly when applied to complex and non-linear biomedical data.
+            The objective was to improve the efficiency and robustness of causal discovery methods, particularly in the presence of latent variables and when applied to complex, non-linear biomedical data.
           </p>
-          <p> Beyond that, I am interested in developing machine learning algorithms that are more grounded in human reasoning and are interpretable.</p> </div>
+
+          <p>
+          More broadly, my research interests lie in developing machine learning algorithms that are more grounded in human reasoning.</p>
+        </div>
     design:
       columns: '1'
   #- block: collection
@@ -87,8 +90,8 @@ sections:
       title: Academic Services
       subtitle: ''
       text: |-
-        **Representative of doctoral students** on the [EDITE doctoral school board](https://www.edite-de-paris.fr/conseil-de-ledite/)  
-        _Participation in the board and involvement in key decision-making processes._
+        **Former doctoral student representative** on the [EDITE doctoral school board](https://www.edite-de-paris.fr/conseil-de-ledite/)  
+        _Participated in board meetings and contributed to key decision-making processes._
 
         **Reviewer** for the [NeurIPS BDU Workshop 2024](https://gp-seminar-series.github.io/neurips-2024/)  
     columns: '1'
@@ -162,6 +165,18 @@ sections:
 
         <div class="timeline-wrapper">
           <section class="timeline">
+          <div class="event">
+          <span class="date">📅 <strong>December 16, 2025</strong></span>
+          <p>
+            I successfully defended 🎉 my PhD thesis after 3 years at <a href="https://institut-curie.org/institut-curie-research-center" target="_blank">Institut Curie</a> 🇫🇷 and 8 years at <a href="https://sciences.sorbonne-universite.fr/en" target="_blank">Sorbonne Université</a> 🎓.
+            <br/>
+            I would like to warmly thank my PhD advisor, <a href="http://kinefold.curie.fr/isambertlab/" target="_blank">Dr. Hervé Isambert</a> for his guidance, trust, and insightful advice throughout this journey.
+            <br/>
+            My sincere thanks also go to the members of my jury: <a href="https://sites.google.com/site/marianneclausel/home" target="_blank">Pr. Marianne Clausel</a> as president, <a href="https://sites.google.com/view/philippe-leray/news" target="_blank">Pr. Philippe Leray</a> and <a href="https://ama.liglab.fr/~devijvee/" target="_blank">Dr. Émilie Devijver</a> as reviewers, for their careful reading, constructive feedback, and stimulating scientific discussions.
+            <br/>
+            Finally, heartfelt thanks to my colleagues, friends, and family for their constant support along the way 🙏
+          </p>
+        </div>
            <div class="event">
             <span class="date">📅 <strong>September 1-5, 2025</strong></span>
               <p>I had the pleasure of attending the <a href="https://paiss.inria.fr/" target="_blank">PRAIRIE/MIAI Artificial Intelligence Summer School (P.A.I.S.S.) </a> in Grenoble 🇫🇷 . It was an unforgettable week of world-class talks from Yann LeCun to Michael Jordan and a community that made the learning stick. I met passionate students from around the world 🌍 and learned a lot through discussions and poster sessions. </br>
@@ -169,20 +184,20 @@ sections:
            </div>
            <div class="event">
             <span class="date">📅 <strong>July 21-26, 2025</strong></span>
-              <p>I had the pleasure of attending the <a href="https://www.eeml.eu/" target="_blank">Eastern European Machine Learning (EEML) Summer School </a> in Sarajevo 🇧🇦, a vibrant event that brought together participants from 44 countries, with over half representing Eastern Europe. This diversity is a key strength of science and collaboration. </br>
+              <p>I had the pleasure of attending the <a href="https://www.eeml.eu/previous-editions/eeml2025" target="_blank">Eastern European Machine Learning (EEML) Summer School </a> in Sarajevo 🇧🇦, a vibrant event that brought together participants from 44 countries, with over half representing Eastern Europe. This diversity is a key strength of science and collaboration. </br>
                 My warmest thanks 🙏 to the amazing organizing team, volunteers, lecturers, and sponsors who made this event possible and accessible.</p>
           </div>
-          <div class="event">
+          <div class="event hidden">
             <span class="date">📅 <strong>May 1, 2025</strong></span>
               <p>Our method for search-and-score learning of ancestral graphs has been accepted at <a href="https://openreview.net/forum?id=RfqTvlo9XQ" target="_blank">ICML 2025</a> in Vancouver 🇨🇦 ! Looking forward to presenting this work 🎉 !</p>
           </div>
-            <div class="event">
+            <div class="event hidden">
               <span class="date">📅 <strong>March 11, 2025</strong></span>
                 <p>I presented my PhD thesis in 3 minutes during the EDITE 2025 Doctoral Day at the Centre Pompidou in Paris 🇫🇷 . An exciting challenge in science communication 📣 !</p>
             </div>
             <div class="event hidden">
               <span class="date">📅 <strong>February 21, 2025</strong></span>
-                <p>Our contribution on a feedback from a new hybrid learning approach has been accepted at <a href="https://www.conftool.com/qpes2025/index.php?page=browseSessions&cols=3&form_session=30&mode=table" target="_blank">QPES2025</a> in Brest 🇫🇷 🎉 ! This work results from a data analysis consulting mission at <a href="https://capsule.sorbonne-universite.fr/" target="_blank">CAPSULE</a>, Sorbonne University 🎓</p>
+                <p>Our contribution on a feedback from a new hybrid learning approach has been accepted at <a href="https://qpes2025.sciencesconf.org/" target="_blank">QPES2025</a> in Brest 🇫🇷 🎉 ! This work results from a data analysis consulting mission at <a href="https://capsule.sorbonne-universite.fr/" target="_blank">CAPSULE</a>, Sorbonne Université 🎓</p>
             </div>
             <div class="event hidden">
               <span class="date">📅 <strong> January 23, 2025</strong></span>
@@ -198,7 +213,7 @@ sections:
             </div>
             <div class="event hidden">
               <span class="date">📅<strong> October 2024</strong></span>
-              <p> Second stay in <a href="https://profiles.imperial.ac.uk/b.bravi21" target="_blank">Dr. Barbara Bravi's</a> team at Imperial College London 🇬🇧</p>
+              <p> Second stay in <a href="https://profiles.imperial.ac.uk/b.bravi" target="_blank">Dr. Barbara Bravi's</a> team at Imperial College London 🇬🇧</p>
             </div>
             <div class="event hidden">
               <span class="date">📅<strong> September 2024</strong></span>
@@ -210,11 +225,11 @@ sections:
             </div>
             <div class="event hidden">
               <span class="date">📅<strong> June 2023</strong></span>
-              <p>First stay in <a href="https://profiles.imperial.ac.uk/b.bravi21" target="_blank">Dr. Barbara Bravi's</a> team at Imperial College London 🇬🇧</p>
+              <p>First stay in <a href="https://profiles.imperial.ac.uk/b.bravi" target="_blank">Dr. Barbara Bravi's</a> team at Imperial College London 🇬🇧</p>
             </div>
             <div class="event hidden">
               <span class="date">📅<strong> October 2022</strong></span>
-              <p>Start of my PhD at Institut Curie under the supervision of <a href="http://kinefold.curie.fr/isambertlab" target="_blank">Dr. Hervé Isambert</a> and co-supervised by <a href="https://profiles.imperial.ac.uk/b.bravi21"target="_blank">Dr. Barbara Bravi</a> 🎉 !</p>
+              <p>Start of my PhD at Institut Curie under the supervision of <a href="http://kinefold.curie.fr/isambertlab" target="_blank">Dr. Hervé Isambert</a> and co-supervised by <a href="https://profiles.imperial.ac.uk/b.bravi"target="_blank">Dr. Barbara Bravi</a> 🎉 !</p>
             </div>
           </section>
             <button id="toggleBtn" class="toggle-btn" onclick="toggleEvents()">See more</button>
@@ -249,16 +264,15 @@ sections:
       subtitle: ''
       text: |-
         <p style="text-align:center;">
-          📧 <a href=mailto:nikita.lagrange@curie.fr>nikita.lagrange@curie.fr</a> or <a href=mailto:lagrangenikita@gmail.com>lagrangenikita@gmail.com</a><br><br>
-          📍Institut Curie, Research Center, CNRS-UMR168 <br>
+          📧 <a href=mailto:lagrangenikita@gmail.com>lagrangenikita@gmail.com</a><br><br>
+          <!--📍Institut Curie, Research Center, CNRS-UMR168 <br>
             Pavillon Curie, 1st floor, Office 01.09.b <br>
             11, rue Pierre et Marie Curie <br> 75005 Paris</p><br>
-
           <div style="margin-top: 20px; border: 1px solid #444; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 5px rgba(0,0,0,0.3);">
             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1312.8575416863475!2d2.3431009000000063!3d48.844573100000005!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e671c29be381a9%3A0xcebd6da848fd403c!2s11%20Rue%20Pierre%20et%20Marie%20Curie%2C%2075005%20Paris!5e0!3m2!1sfr!2sfr!4v1739726502431!5m2!1sfr!2sfr"
               width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
             </iframe>
-          </div>
+          </div> -->
         </div>  
       
       columns: '1'
